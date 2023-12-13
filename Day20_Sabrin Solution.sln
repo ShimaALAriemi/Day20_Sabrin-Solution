@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20_Sabrin", "Day20_Sabrin\Day20_Sabrin.csproj", "{AE89E986-F577-4586-95B5-25407A022542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE89E986-F577-4586-95B5-25407A022542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE89E986-F577-4586-95B5-25407A022542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE89E986-F577-4586-95B5-25407A022542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE89E986-F577-4586-95B5-25407A022542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB353AD-7DC0-441E-A764-CC8607A6F12D}
+	EndGlobalSection
+EndGlobal
